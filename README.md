@@ -8,6 +8,8 @@ This project is a Python-based GUI application to detect diabetes using a custom
 - **Data Normalization**: Scales input data using `MinMaxScaler` to ensure accurate predictions.
 - **Live Predictions**: Users can input data to get immediate predictions about diabetes.
 
+![Diabetes GUI](Capture.PNG)
+
 ## Dataset
 The application uses a dataset named `Healthcare-Diabetes.csv`, which should have the following columns:
 1. `Pregnancies`
