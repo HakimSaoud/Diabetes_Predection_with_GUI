@@ -18,7 +18,7 @@ The application uses a dataset named `Healthcare-Diabetes.csv`, which should hav
 6. `BMI`
 7. `DiabetesPedigreeFunction`
 8. `Age`
-9. `Outcome` (binary: `0` for no diabetes, `1` for diabetes)
+9. `Outcome` (binary: `0`==> `salekt'ha` for no diabetes, `1`==> `rak 3andk el sokkker` for diabetes)
 
 Make sure the dataset is in the same directory as the application.
 
